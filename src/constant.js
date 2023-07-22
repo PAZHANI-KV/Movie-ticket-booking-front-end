@@ -1,1 +1,1 @@
-export const BASE_URL = "https://ticket-booking-moc1.onrender.com/"
+export const BASE_URL = "https://movie-ticket-booking-ydfi.onrender.com/"
